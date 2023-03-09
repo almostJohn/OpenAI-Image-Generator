@@ -8,7 +8,7 @@
 	],
 	"routes": [
 		{
-			"src": "/(.*)",
+			"src": "src/routes/openAIRoutes.js",
 			"dest": "/"
 		}
 	]
